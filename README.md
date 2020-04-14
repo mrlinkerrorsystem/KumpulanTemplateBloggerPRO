@@ -1,7 +1,5 @@
 # Download Template Pro 2020
 
-[![License](https://img.shields.io/mrlinkerrorsystem/license-MIT-blue.svg?style=flat-square)](https://github.com/mrlinkerrorsystem/KumpulanTemplateBloggerPRO/blob/master/LICENSE)
-
 <p>
   <a href="#" target="_blank">
     <img src="https://cdn.pixabay.com/photo/2019/02/03/03/51/hacker-3971821_1280.png" alt="Netlify Status" />
