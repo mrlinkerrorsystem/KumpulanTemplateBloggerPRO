@@ -20,7 +20,7 @@ A responsive [React](http://instagram.com/cyber_mrlinkerrorsystemoffical) Buy Te
 
 Menerima Penyaluran Donasi Covid-19 
 
-<a href="https://www.instagram.com/cyber_mrlinkerrorsystemoffical" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Donasi" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.instagram.com/cyber_mrlinkerrorsystemoffical" target="_blank"><img src="https://3.bp.blogspot.com/-3dihe0iHtRE/WGIaNPV0s0I/AAAAAAAACWQ/uaqwVGBauukUy1aGmLLEV7c-rdezUbTnwCLcB/s1600/Donate_icon_B2.png" alt="Donasi" style="height: auto !important;width: auto !important;" ></a>
 
 ## 🌴 License
 
